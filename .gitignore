@@ -1,0 +1,23 @@
+# --- Cles privees et materiel secret : NE JAMAIS VERSIONNER ---
+*.key
+*.pem.key
+*.csr
+racine/
+inter/
+archive/
+crls.pem
+
+# --- Fichiers generes ---
+__pycache__/
+.pytest_cache/
+*.pyc
+*.log
+tmp/
+
+# --- Fichiers intermediaires LaTeX ---
+*.aux
+*.toc
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
