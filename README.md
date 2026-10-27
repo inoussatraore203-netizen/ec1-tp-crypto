@@ -1,6 +1,6 @@
 # EC1 – Ingénierie de la cryptographie : travaux pratiques
 
-**Étudiant(e) :** *TRAORE Inoussa* — **INE :** *N00984520211* — **Année :** 2026–2027
+**Éleve :** *TRAORE Inoussa* — **INE :** *N00984520211* — **Année :** 2026–2027
 **Enseignant :** Dr. Zakaria Sawadogo
 
 Ce dépôt contient le rapport et le code des trois TP du module EC1
